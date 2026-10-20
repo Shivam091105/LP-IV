@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web>
+    <page id="A" topic="AI">
+        <title>Artificial Intelligence</title>
+        <link>B</link>
+        <link>C</link>
+    </page>
+
+    <page id="B" topic="AI">
+        <title>Machine Learning</title>
+        <link>C</link>
+    </page>
+
+    <page id="C" topic="Sports">
+        <title>Sports News</title>
+        <link>A</link>
+    </page>
+
+    <page id="D" topic="AI">
+        <title>AI Research</title>
+        <link>A</link>
+        <link>B</link>
+    </page>
+</web>
