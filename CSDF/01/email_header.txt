@@ -1,0 +1,8 @@
+From: support@example.com
+To: user@gmail.com
+Subject: Account Verification
+Date: Tue, 20 Oct 2026 10:30:00 +0000
+Reply-To: suspicious@unknown.com
+Return-Path: bounce@example.com
+Received: from mail.example.com (mail.example.com [192.0.2.10])
+Authentication-Results: mx.google.com; spf=fail; dkim=pass; dmarc=fail
