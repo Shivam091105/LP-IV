@@ -1,0 +1,16 @@
+Test accuracy: 0.7574 (75.74%)
+
+              precision    recall  f1-score   support
+
+    negative       0.88      0.80      0.84      1814
+     neutral       0.54      0.63      0.58       596
+    positive       0.65      0.78      0.71       446
+
+    accuracy                           0.76      2856
+   macro avg       0.69      0.73      0.71      2856
+weighted avg       0.78      0.76      0.76      2856
+
+Confusion matrix (negative, neutral, positive):
+[[1443  259  112]
+ [ 151  374   71]
+ [  43   57  346]]
